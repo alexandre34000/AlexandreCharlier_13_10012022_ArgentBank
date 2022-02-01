@@ -1,0 +1,29 @@
+.content-update__form {
+    width: 100%;
+    height: auto;
+}
+
+
+.update-form__section {
+    padding: 5px 0;
+}
+
+.update-form__input {
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    margin: 0 10px;
+    border: 2px solid #D2D9E1;
+    border-radius: 2px;
+}
+
+.update-form__button {
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    margin: 0 10px;
+    border: 2px solid #5256EC;
+    color: #5256EC;
+    border-radius: 2px;
+
+}
